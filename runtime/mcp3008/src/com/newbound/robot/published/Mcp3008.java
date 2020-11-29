@@ -1,0 +1,1 @@
+package com.newbound.robot.published;public class Mcp3008 extends com.newbound.robot.MetaBot {	public Mcp3008()	{		super();				DB = "mcp3008";		ID = "nqxmxv164284d4d0bj4c";	}		public String getServiceName() 	{		return "mcp3008";	}}
